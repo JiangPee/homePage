@@ -116,6 +116,9 @@ import {
   Book,
   Fire,
   LaptopCode,
+  Gamepad,
+  FilePdf,
+  Robot,
 } from "@vicons/fa";
 
 ...
@@ -129,6 +132,9 @@ const siteIcon = {
   Book,
   Fire,
   LaptopCode,
+  Gamepad,
+  FilePdf,
+  Robot,
 };
 ```
 
